@@ -1,0 +1,9 @@
+[submodule "airootfs/etc/skel/aur/eww-git"]
+	path = airootfs/etc/skel/aur/eww-git
+	url = https://aur.archlinux.org/eww-git
+[submodule "airootfs/etc/skel/aur/wayfire"]
+	path = airootfs/etc/skel/aur/wayfire
+	url = https://aur.archlinux.org/wayfire
+[submodule "airootfs/etc/skel/.config"]
+	path = airootfs/etc/skel/.config
+	url = https://github.com/hindows-extra-repos/.config
