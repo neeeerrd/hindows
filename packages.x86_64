@@ -11,3 +11,5 @@ qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
 base-devel
+networkmanager
+dhcpcd
